@@ -1,0 +1,6 @@
+admin;Add functionality to task manager;Add additional options and refactor the code.;2022-12-01;2022-11-22;No
+Tom;Senior Developer;Add functionality to task manager;2024-03-03;2024-02-28;No
+James;Lead;Checking the functionality of task manager;2024-03-05;2024-02-28;No
+Lilly;Tester;testing the functionality of task manager;2024-03-07;2024-02-28;No
+Bob;Junior tester;refactor the code;2024-03-10;2024-02-28;No
+Jiss;Developer;Developing the main page;2024-04-03;2024-02-29;No

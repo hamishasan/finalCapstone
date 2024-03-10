@@ -1,0 +1,44 @@
+Total number of users: 6
+Total number of tasks: 6
+
+User: admin
+  Total number of tasks assigned: 1
+  Percentage of total tasks assigned: 16.67%
+  Percentage of completed tasks: 0.00%
+  Percentage of uncompleted tasks: 100.00%
+  Percentage of overdue tasks: 100.00%
+
+User: Tom
+  Total number of tasks assigned: 1
+  Percentage of total tasks assigned: 16.67%
+  Percentage of completed tasks: 0.00%
+  Percentage of uncompleted tasks: 100.00%
+  Percentage of overdue tasks: 0.00%
+
+User: James
+  Total number of tasks assigned: 1
+  Percentage of total tasks assigned: 16.67%
+  Percentage of completed tasks: 100.00%
+  Percentage of uncompleted tasks: 0.00%
+  Percentage of overdue tasks: 0.00%
+
+User: Lilly
+  Total number of tasks assigned: 1
+  Percentage of total tasks assigned: 16.67%
+  Percentage of completed tasks: 0.00%
+  Percentage of uncompleted tasks: 100.00%
+  Percentage of overdue tasks: 0.00%
+
+User: Bob
+  Total number of tasks assigned: 1
+  Percentage of total tasks assigned: 16.67%
+  Percentage of completed tasks: 0.00%
+  Percentage of uncompleted tasks: 100.00%
+  Percentage of overdue tasks: 0.00%
+
+User: Jiss
+  Total number of tasks assigned: 1
+  Percentage of total tasks assigned: 16.67%
+  Percentage of completed tasks: 0.00%
+  Percentage of uncompleted tasks: 100.00%
+  Percentage of overdue tasks: 0.00%
